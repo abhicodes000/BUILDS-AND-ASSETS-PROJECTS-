@@ -28,8 +28,8 @@ My work combines AI, data processing, and workflow automation with tools like **
 
 ### 📫 Connect
 📍 India  
-🔗 [github.com/abhinay-singh](https://github.com/abhinay-singh)  
-✉️  
+🔗 https://github.com/abhicodes000
+✉️ abhinaysingh0021@gmail.com
 
 ---
 
