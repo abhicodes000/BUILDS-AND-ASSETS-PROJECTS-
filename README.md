@@ -26,10 +26,8 @@ My work combines AI, data processing, and workflow automation with tools like **
 
 ---
 
-### Connect
+### Connect 
 📍 India  
-🔗 bit.ly/Abhifolio | abhinaysingh0021@gmail.com
-
----
+abhinaysingh0021@gmail.com
 
 > “I like building systems that think, automate, and evolve technology is my toolkit for creating smarter workflows.”
