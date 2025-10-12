@@ -1,6 +1,6 @@
 # BUILDS-AND-ASSETS-PROJECTS-
 ALL MY BUILDS AND ASSETS ARE HERE.
-# 👋 Hi, I’m Abhinay Singh  
+# Hi, I’m Abhinay Singh  
 
 **AI & Automation Developer | Tech Enthusiast | Web Solutions Builder**
 
@@ -9,7 +9,7 @@ My work combines AI, data processing, and workflow automation with tools like **
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 **Languages:** Python, Java, JavaScript  
 **AI & ML:** OpenAI, Hugging Face, LangChain, LLM Integrations  
 **Automation:** n8n (self-hosted), Webhooks, API Orchestration  
@@ -18,7 +18,7 @@ My work combines AI, data processing, and workflow automation with tools like **
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 - **AI Agent Data Processor** – Processes and summarizes Excel, Sheets, and document data using LLMs.  
 - **AI Communication Automations** – WhatsApp + Email agents for bookings, replies, and scheduling.  
 - **Automation Library** – 2000+ AI workflows in n8n, integrated via Python and self-hosted Docker setup.  
@@ -26,11 +26,11 @@ My work combines AI, data processing, and workflow automation with tools like **
 
 ---
 
-### 📫 Connect
+### Connect
 📍 India  
 🔗 https://github.com/abhicodes000
-✉️ abhinaysingh0021@gmail.com
-
+  abhinaysingh0021@gmail.com
+  abhinay.framer.website
 ---
 
-> “I like building systems that think, automate, and evolve — technology is my toolkit for creating smarter workflows.”
+> “I like building systems that think, automate, and evolve technology is my toolkit for creating smarter workflows.”
