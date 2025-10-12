@@ -28,9 +28,8 @@ My work combines AI, data processing, and workflow automation with tools like **
 
 ### Connect
 📍 India  
-🔗 https://github.com/abhicodes000
-  abhinaysingh0021@gmail.com
-  abhinay.framer.website
+🔗 https://abhinay.framer.website/ | abhinaysingh0021@gmail.com
+
 ---
 
 > “I like building systems that think, automate, and evolve technology is my toolkit for creating smarter workflows.”
