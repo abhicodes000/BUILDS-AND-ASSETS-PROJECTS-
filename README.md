@@ -28,7 +28,7 @@ My work combines AI, data processing, and workflow automation with tools like **
 
 ### Connect
 📍 India  
-🔗 https://abhinay.framer.website/ | abhinaysingh0021@gmail.com
+🔗 bit.ly/Abhifolio | abhinaysingh0021@gmail.com
 
 ---
 
